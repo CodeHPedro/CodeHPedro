@@ -1,6 +1,6 @@
 # Pedro Henrique 👾
 
-**Desenvolvedor Full Stack em aprendizado | Aspirante a Engenheiro de Software**
+**Desenvolvedor Full Stack em aprendizado**
 
 Me chamo **Pedro Henrique**, estudante de Ciência da Computação na Unifavip Wyden e estou em constante aprendizado para me tornar um desenvolvedor Full Stack completo. Atualmente, atuo em projetos práticos focando no ecossistema Python, TypeScript, React e Tailwind CSS.
 
