@@ -26,7 +26,7 @@ Me chamo **Pedro Henrique**, estudante de Ciência da Computação na Unifavip W
 
 **🗄️ Banco de Dados e Ferramentas:**
 
-<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 ### 📫 Conecte-se comigo:
 
@@ -36,13 +36,3 @@ Me chamo **Pedro Henrique**, estudante de Ciência da Computação na Unifavip W
 <a href="https://www.instagram.com/pedrodtsh/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
----
-
-### 🏆 Minhas Conquistas do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeHPedro&theme=radical&no-bg=true&margin-w=15" alt="Pedro's GitHub Trophies" />
-</div>
-
----
